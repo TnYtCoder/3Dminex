@@ -3,8 +3,7 @@
 **A simple, powerful 3D model viewer that runs in your browser.**  
 Created by [TnYtCoder](https://github.com/TnYtCoder) — no install, no server, just open and use.
 
-![screenshot](https://via.placeholder.com/800x400.png?text=3Dimenx+in+action)  
-*Replace this with your own screenshot!*
+🌐 **Live demo:** [https://tnytcoder.github.io/3Dminex/](https://tnytcoder.github.io/3Dminex/)
 
 ---
 
