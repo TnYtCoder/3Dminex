@@ -7,6 +7,22 @@ Created by [TnYtCoder](https://github.com/TnYtCoder) — no install, no server, 
 
 ---
 
+## Screenshots 📱
+<p align="center">
+<img width="60%" height="60%" alt="3dmx1" src="https://github.com/user-attachments/assets/bfbebb5d-73d3-4283-b0b7-c98bac045963" />
+<img width="60%" height="60%" alt="3dmx2" src="https://github.com/user-attachments/assets/0ae6e47f-72a5-4156-beff-be029c4d7950" />
+<img width="60%" height="60%" alt="3dmx3" src="https://github.com/user-attachments/assets/dc9cb4e0-857a-43e2-a882-ea51bf07cd93" />
+<img width="60%" height="60%" alt="3dmx4" src="https://github.com/user-attachments/assets/f50fcc5b-897e-4227-989d-2f284ecf0905" />
+<img width="60%" height="60%" alt="3dmx5" src="https://github.com/user-attachments/assets/4bdf76ac-ea9c-4a10-b114-28b8db1195d8" />
+<img width="60%" height="60%" alt="3dmx6" src="https://github.com/user-attachments/assets/1b3b4887-eb0a-4049-b20e-7769b273c329" />
+<img width="60%" height="60%" alt="3dmx7" src="https://github.com/user-attachments/assets/66ef1857-11f7-4c8c-9462-8300f5de5653" />
+<img width="60%" height="60%" alt="3dmx8" src="https://github.com/user-attachments/assets/82e23698-47f1-445e-9748-8478a53f7702" />
+</p>
+
+I do not own these 3D model.  Credit goes to the original creator, available on Sketchfab.
+
+---
+
 ## ✨ What you can do
 
 - **Upload any model** – `.glb`, `.gltf`, `.obj`, `.stl` (up to 100 MB)
